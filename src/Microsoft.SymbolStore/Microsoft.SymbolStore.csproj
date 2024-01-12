@@ -4,10 +4,12 @@
     <NoWarn>;1591;1701</NoWarn>
     <IsPackable>true</IsPackable>
     <Description>Symbol server key generation and access protocol</Description>
-    <PackageReleaseNotes>$(Description)</PackageReleaseNotes>
     <PackageTags>Symbol Indexing</PackageTags>
     <IncludeSymbols>true</IncludeSymbols>
     <IsShippingAssembly>true</IsShippingAssembly>
+    <PackageId>SymbolStore</PackageId>
+    <PackageProjectUrl>https://github.com/SimonCropp/symstore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SimonCropp/symstore</RepositoryUrl>
   </PropertyGroup>
   
   <ItemGroup>

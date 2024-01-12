@@ -19,6 +19,8 @@ x64/
 .packages/
 .tools/
 
+.idea
+
 # Per-user project properties
 launchSettings.json
 
